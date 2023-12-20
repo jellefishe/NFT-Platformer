@@ -1,5 +1,5 @@
 # NFT-Platformer
-A unity platformer for the playbitrace.com game
+A C# unity platformer for the playbitrace.com game
 
 upcomming merge into the wix playbitrace.com website 
 Must purchase a bitrace NFT to play the game and earn bte
