@@ -8,5 +8,6 @@ This is a Unity game, scale the terrain islands with double jumps that reset whe
 
 note that the assets folder and library folders are large, so you must unzip them. email me at taivincent2@gmail.com if you want the original files so you can play them
 
+some of the platforms are used from free art texture download sites
 Enjoy playing/testing!
 
